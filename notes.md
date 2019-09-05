@@ -6,8 +6,8 @@
   行——形状，如long，tall,short,small,fat,little  
   令——年龄，新旧，如new，old，3-year-old  
   赦——颜色color，如red，yellow，black  
-  国——国家，归属地，如china  
-  才——材质，如wooden  
+  国——国家，产地，归属地，如china  
+  才——材质，材料，如wooden  
   
 2.have的含义
 
