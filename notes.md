@@ -43,10 +43,8 @@
   
 8.动词后面组合
 
-  及物动词+名词        动宾结构，如have class
-  
-  不及物动词+副词        如 I dance well
-  
+  及物动词+名词        动宾结构，如have class  
+  不及物动词+副词        如 I dance well  
   感官动词+形容词        表示..起来..，比如smells good
   
     look good    看起来好    
