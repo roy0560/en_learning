@@ -20,7 +20,7 @@
   see you soon    马上见
   see you then    到时候见
   see you around    （在附近）再见，适合面对面说，期望下次在此位置的附近在碰见
-  
+
 4.“be doing”表现在进行时，也表示“即将发生但还未发生”
 
 5.need的用法：need sth或者need to do
@@ -51,7 +51,7 @@
     smell good    闻起来好
     taste good    吃起来好
     feel cold    感觉冷
-    
+
 9. 时间介词，after和befor后面也可以接句子
 
   at+时刻
