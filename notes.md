@@ -17,9 +17,9 @@
 
 3. 表达再见,只有see you和bye，并且只有see you后面才能接时间状语
 
-  see you soon    马上见		
-  see you then    到时候见		
-  see you around    （在附近）再见，适合面对面说，期望下次在此位置的附近在碰见		
+  see you soon    马上见  
+  see you then    到时候见  
+  see you around    （在附近）再见，适合面对面说，期望下次在此位置的附近在碰见  
 
 4.“be doing”表现在进行时，也表示“即将发生但还未发生”
 
