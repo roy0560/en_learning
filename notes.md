@@ -96,4 +96,11 @@
   否定句：在主语后加don't/doesn't,谓语变原形  
   疑问句：在主语前加do/does,谓语变原形  
 
-17.
+17.work as+职业   表示“作为一名...”
+
+18.It's adj. for sb. to do sth.     对于sb.来说，做sth.是adj.
+
+19.look forward to going    期待做某事  
+    Be used to going    习惯做某事
+    
+20.
