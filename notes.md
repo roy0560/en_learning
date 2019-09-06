@@ -103,4 +103,6 @@
 19.look forward to going    期待做某事  
     Be used to going    习惯做某事
     
-20.
+20.部分at/in可以像be doing一样表达“正在进行的动作状态”，但这种短语中不能有the，有the就是指地点了。
+
+21.Do句型+时间/地点状语     放句尾
