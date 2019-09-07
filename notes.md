@@ -116,4 +116,8 @@
   挖空——造句  在实物上贴label，生活中的句子代入该单词  
   7天法则   7天遗忘曲线，第二三天加强复习，坚持7天行程长期记忆  
   
-23.
+23.be afraid用法：
+
+  Be afraid of sth.     害怕，恐惧，I am afraid of dogs.
+  Be afraid of doing sth./to do sth.    害怕，I'm afraid of saying goodbye. / I'm afraid to say goodbye.
+  Be afraid that 从句(that通常可省略)    恐怕，担心，I.m araid you need to see the doctor.
