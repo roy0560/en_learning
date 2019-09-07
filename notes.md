@@ -118,6 +118,12 @@
   
 23.be afraid用法：
 
-  Be afraid of sth.     害怕，恐惧，I am afraid of dogs.
-  Be afraid of doing sth./to do sth.    害怕，I'm afraid of saying goodbye. / I'm afraid to say goodbye.
+  Be afraid of sth.     害怕某人或某物，I am afraid of dogs.
+  Be afraid of doing sth./to do sth.    害怕做某事，I'm afraid of saying goodbye. / I'm afraid to say goodbye.
   Be afraid that 从句(that通常可省略)    恐怕，担心，I.m araid you need to see the doctor.
+
+24.Be后面的的实意动词主要有：现在分词、不定式、过去分词
+
+25.短语be good at表示“擅长..”，后面跟名词或动名词，同义短语“do well in”
+
+26."用某种语言"的表达结构是"in+语言"，如in English
