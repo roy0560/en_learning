@@ -127,3 +127,9 @@
 25.短语be good at表示“擅长..”，后面跟名词或动名词，同义短语“do well in”
 
 26."用某种语言"的表达结构是"in+语言"，如in English
+
+27.单词，幸运的lucky=fortunate，luckily=fortunately，unlucky=unfortunate，前者偏口语，后者偏正式。
+
+28.单词，愚蠢的，silly表示爱称“小傻瓜”，stupid适合用于自嘲。
+
+
