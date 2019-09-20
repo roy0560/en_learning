@@ -132,4 +132,14 @@
 
 28.单词，愚蠢的，silly表示爱称“小傻瓜”，stupid适合用于自嘲。
 
+29.形容困难度的词，程度从易到难：easy—difficult—hard—tough
+
+30.语法框架外的句型：
+
+  祈使句：没有主语，如:open the door  
+  感叹句：how+adj. 如:how tall  
+  感叹句：what+n. 如：what a large screen
+  
+31.
+
 
