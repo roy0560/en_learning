@@ -140,6 +140,15 @@
   感叹句：how+adj. 如:how tall  
   感叹句：what+n. 如：what a large screen
   
-31.
+31.装扮风格：
+
+  随意风:casual style  
+  清新风:fresh style  
+  淑女风:lady style  
+  民族风:ethnic style  
+  朋克风:punk style  
+  商务风:business style  
+  
+32.
 
 
