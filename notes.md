@@ -149,6 +149,24 @@
   朋克风:punk style  
   商务风:business style  
   
-32.
+32.短语“听起来有趣”,sounds后面跟形容词，like后面跟名词：
 
+  sounds like fun  
+  sounds funny  
+  sounds interesting  
 
+33.sure的用法：
+
+  be sure   表示确定  
+  be sure + about sth.    对某事的态度确定吗  
+  be sure + to do sth.    确定做某事  
+  be sure + that从句    对从句描述的事物是否确定  
+  
+34.with的用法：
+
+  A带有B这种特征或事物   This is a room with a mirror in it.  
+                      This girl with long hair is called Gothica.                      
+  使用    A girl is taking photo for herself with her mobile phone.  
+  与、和   Gothica is living here with her mom.  
+  
+35.
