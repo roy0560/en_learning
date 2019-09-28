@@ -169,4 +169,12 @@
   使用    A girl is taking photo for herself with her mobile phone.  
   与、和   Gothica is living here with her mom.  
   
-35.
+35.must的用法：
+  
+  1.表示责任、义务——“必须”。You must wear seatbelt at all times.
+  2.强调某事的必要性——“应该”。You must give up smoking,it's bad for you.  
+  3.用于推断，确定某事是真的——“一定”。Jack must be home.I heard a noise coming from his room.  
+  4.表示强烈推荐,推荐指数must>should。The ice cream here is delicious,you must try some.  
+  5.must not表示禁止、禁令。
+  
+36.
