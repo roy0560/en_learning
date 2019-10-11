@@ -177,4 +177,9 @@
   4.表示强烈推荐,推荐指数must>should。The ice cream here is delicious,you must try some.  
   5.must not表示禁止、禁令。
   
-36.
+36.last的用法：
+
+  上一个     I bought a book last week.
+  最后一个      You are the last one I will hurt.
+  持续      The meeting will last for 2 hours.
+  
