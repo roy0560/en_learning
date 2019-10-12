@@ -186,15 +186,15 @@
 37.suggest的用法：
 
   1.建议做某事，不用suggest to do sth.，而用suggest doing sth.,如：  
-    I suggest selling G,but they don't agree.  
+      I suggest selling G,but they don't agree.  
   2.建议某人做某事不用suggest sb. to do,而用suggest sb./one's doing,如：  
-    The doctor suggest me sleeping befor eight o'clock every night.  
+      The doctor suggest me sleeping befor eight o'clock every night.  
   3.suggest表"建议"后接that从句，位于常用(should)+v.原型，如：  
-    Tony suggest that his mother go walking in the park.   
+      Tony suggest that his mother go walking in the park.   
   4.suggest表“暗示”等时，后接的that从句要以陈述语气，如：  
-    Don't worry, I will suggest when you should take action.
+      Don't worry, I will suggest when you should take action.
   5.向某人提出某情况，suggest后不能接双宾语，即不用suggest sb. sth.,而通常用suggest sth. to sb.或suggest to sb. that...,如：  
-    I suggest another way to him.    
-    I suggest to him that we should choose another way.  
+      I suggest another way to him.    
+      I suggest to him that we should choose another way.  
   
 38.
