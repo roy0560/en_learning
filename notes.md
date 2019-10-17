@@ -197,4 +197,22 @@
       I suggest another way to him.    
       I suggest to him that we should choose another way.  
   
-38.
+38.“是时候做某事”句型，time后面要么用for sth.,要么用to do,如果“某人该做某事可”，则是it's time for sb. to do sth.
+  
+  It's time fo dinner.  
+  It's time for exercise.  
+  It's time for waching TV.  
+  It's time to watch TV.  
+  It's time for us to have Gothica's English Class.  
+  It's time for you to get a job.  
+  
+39.want sth. 和 would like sth.都表示想要某物
+  want (sb.) to do 和 would like (sb.) to do 都表示想要(某人)做某事  
+  would like 比 want更委婉  
+  
+  I don't want him to leave me.    
+  What do you want me to do?  
+  Would you like some coffee,sir?  
+  I cant/don't drink doffee, I'd like some juice,thanks.  
+  
+40.
