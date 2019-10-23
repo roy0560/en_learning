@@ -41,8 +41,6 @@
 
 7.look for表示“寻找”，强调过程；find表示“找到”，强调结果
 
-8.work as+职业   表示“作为一名...”
-
 9.be afraid用法：
 
   Be afraid of sth.     害怕某人或某物，I am afraid of dogs.
@@ -59,4 +57,10 @@
   sounds funny  
   sounds interesting  
 
-13.
+13.表示"许多"的短语:
+
+	many+可数名词
+	much+不可数名词
+	a lot/lots of + 可数和不可数名词
+
+14.

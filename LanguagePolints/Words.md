@@ -1,18 +1,18 @@
 1.have的含义
 
-  有，拥有——   
-  吃，喝——   
-  进行—— 
+    有，拥有——   
+    吃，喝——   
+    进行—— 
 
 2. 时间介词，after和befor后面也可以接句子
 
-  at+时刻  
-  in+时间段  
-  on+具体某一天  
-  by+    到...的时候  
-  after    在..之后  
-  befor    在...之前  
-  
+    at+时刻  
+    in+时间段  
+    on+具体某一天  
+    by+    到...的时候  
+    after    在..之后  
+    befor    在...之前  
+  	
 3.as有时可以替代when，表示“当...的时候”
 
 4.记单词方法：
@@ -63,9 +63,9 @@
   
 13.last的用法：
 
-  上一个     I bought a book last week.    
-  最后一个      You are the last one I will hurt.    
-  持续      The meeting will last for 2 hours.    
+	上一个     I bought a book last week.    
+	最后一个      You are the last one I will hurt.    
+	持续      The meeting will last for 2 hours.    
   
 14.suggest的用法：
 
@@ -81,4 +81,21 @@
       I suggest another way to him.    
       I suggest to him that we should choose another way.
 
-15.  
+15.物主代词：
+
+	单数：my,your,his,her,its
+	复数：our,your,their
+
+16.work的用法
+
+	work as + 职业		I Work as a teacher.
+	work in + 地点		I work in shenzhen.
+	work for + 工作单位		I work for Rocky.
+
+17.代词，在不见面交谈(比如通电话)时，用代词指代自己和对方。
+
+	自己：this，it
+	对方：that，it
+	复数：these,those用they代替
+
+18.
