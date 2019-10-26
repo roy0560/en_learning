@@ -63,4 +63,22 @@
 	much+不可数名词
 	a lot/lots of + 可数和不可数名词
 
-14.
+14.表达"来/去某个地方"的短语，表达方向时加介词to，如go to SH,其中hear、there、home不加to，如come here。
+
+15.短语简写：
+
+	am not	=	ain't
+	got you	=	gotcha
+	want to	=	wanna
+	got to	=	gotta
+	kind of	=	kinda
+
+16.时间短语：
+	
+	in+时间段
+	on+具体的某一天
+	at+时刻
+
+17.
+
+18.

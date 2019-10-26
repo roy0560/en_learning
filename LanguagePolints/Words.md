@@ -98,4 +98,55 @@
 	对方：that，it
 	复数：these,those用they代替
 
-18.
+18.with的用法：
+
+	with+对象	和谁干什么
+	with+特征	长着什么，戴着什么。。
+	with+工具	使用什么。
+	with+		伴随，如：Let's dance with the music.
+
+19.关于"说"的词语：
+	
+	speak	语言、电话用语、做演讲
+	talk	交谈
+	say		具体内容
+	tell	告知、讲故事、说出真相、说出区别
+
+20.do的形态：
+
+	do		原型
+	does	三单
+	did		过去式
+	doing	现在分词
+	done	过去分词
+	to do	动词不定式
+
+21.几乎所有表达"喜恶"的动词(like,dislike,love,hate等)后面都是跟名词、不定式、现在分词。喜恶程度依次为：
+
+	love>like>be fond of>be interested in>dislike>hate
+
+22.表达"一直、始终"
+	
+	always		句中
+	all the time	句尾
+
+23.by的用法
+	
+	在..旁边	My cap is bu my cellphone.
+	用..		I Write by this pen.
+	被..		I'm kissed by her.
+	到..时候	I get fat by october.
+
+24.动词的后面
+
+	及物动词+名词		动宾结构
+	不及物动词+副词	如dance well
+	感官动词
+
+25.表示“寻找”
+
+	look for	寻找过程
+	find		寻找结果，找到
+
+26.
+	

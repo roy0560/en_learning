@@ -68,4 +68,20 @@
   Would you like some coffee,sir?  
   I cant/don't drink doffee, I'd like some juice,thanks.
 
-14.
+14.句子分类：
+
+	三大句型：Be、Do、There be
+	三大句式：肯定句、否定句、疑问句
+	句子成分：主、谓、宾、定、状、表
+
+15.Be句型分三类：
+
+	be+n.		是什么	I am an english teacher.
+	be+adj.		怎么样	I am smart and cool.
+	be+place	在哪里	I am in class.
+
+16.Be动词在Do句型中:
+
+	be doing(现在分词)	在/是 做什么	I am learning English.
+	be to do(不定式)		是做什么		My hobby is to listen to music.
+	be done(过去分词)	被做什么		I am overtaken by jim.
