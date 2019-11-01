@@ -79,6 +79,14 @@
 	on+具体的某一天
 	at+时刻
 
-17.
+17.on earth  和 on the earth  
+
+	"究竟...，到底..."  		用在特殊疑问词或者特殊疑问词修饰的名次之后，用来加强橘子的逾期，具有很强的感情色彩，如：  
+	What on earth are you doing?  
+	  
+	"当今，世界上"	He's the tallest man on earth.  
+
+	"在地球上"	We live on the earth.
+	
 
 18.

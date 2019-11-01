@@ -12,7 +12,7 @@
     by+    到...的时候  
     after    在..之后  
     befor    在...之前  
-  	
+
 3.as有时可以替代when，表示“当...的时候”
 
 4.记单词方法：
@@ -44,7 +44,7 @@
   be sure   表示确定  
   be sure + about sth.    对某事的态度确定吗  
   be sure + to do sth.    确定做某事  
-  be sure + that从句    对从句描述的事物是否确定  
+  be sure + that从句    对从句描述的事物是否确定
   
 11.with的用法：
 
