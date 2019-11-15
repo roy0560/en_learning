@@ -132,21 +132,31 @@
 
 23.by的用法
 	
-	在..旁边	My cap is bu my cellphone.
-	用..		I Write by this pen.
-	被..		I'm kissed by her.
-	到..时候	I get fat by october.
+	在..旁边		My cap is bu my cellphone.
+	使用..		I Write by this pen.
+	被..			I'm kissed by her.
+	到..时候		I get fat by october.
 
-24.动词的后面
+24.表示"在..旁边"的词语：by、beside、next to、near
+
+25.动词的后面
 
 	及物动词+名词		动宾结构
 	不及物动词+副词	如dance well
 	感官动词
 
-25.表示“寻找”
+26.表示“寻找”
 
 	look for	寻找过程
 	find		寻找结果，找到
 
-26.
+27.表示储物工具的单词  
+	
+	shelf	架子，开口，无门
+	closet	柜子，有门，可关闭
+	box		箱子  
+
+28.情态动词，表达"许可、能力、需要、可以、能够、必须、禁止"，如can、need等，情态动词后面跟动词原型。
+
+29.need大多时候是实意动词，尤其表示"需要...来做..."：nedd...to do...  
 	

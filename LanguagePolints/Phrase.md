@@ -89,4 +89,8 @@
 	"在地球上"	We live on the earth.
 	
 
-18.
+18.表示"让...怎么样"：make sb./sth. adj./v.原型  
+
+19.
+
+20.

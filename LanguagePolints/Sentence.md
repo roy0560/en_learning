@@ -85,3 +85,7 @@
 	be doing(现在分词)	在/是 做什么	I am learning English.
 	be to do(不定式)		是做什么		My hobby is to listen to music.
 	be done(过去分词)	被做什么		I am overtaken by jim.
+
+17.There be句型表示"某地有某事物"，be的单复数形态遵循"就近原则"  
+
+18.
