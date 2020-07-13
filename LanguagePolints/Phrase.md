@@ -19,13 +19,13 @@
   a cup of        一杯（茶杯，带柄的杯）  
   a bowl of        一碗（饭碗）  
   a plate of        一盘  
-  
+
 4.动词后面组合
 
   及物动词+名词        动宾结构，如have class  
   不及物动词+副词        如 I dance well  
   感官动词+形容词        表示..起来..，比如smells good
-  
+
     look good    看起来好    
     sound good    听起来不错        
     smell good    闻起来好    
@@ -50,7 +50,7 @@
 10.短语be good at表示“擅长..”，后面跟名词或动名词，同义短语“do well in”
 
 11."用某种语言"的表达结构是"in+语言"，如in English
-  
+
 12.短语“听起来有趣”,sounds后面跟形容词，like后面跟名词：
 
   sounds like fun  
@@ -85,12 +85,8 @@
 	What on earth are you doing?  
 	  
 	"当今，世界上"	He's the tallest man on earth.  
-
-	"在地球上"	We live on the earth.
 	
+	"在地球上"	We live on the earth.
+
 
 18.表示"让...怎么样"：make sb./sth. adj./v.原型  
-
-19.
-
-20.
